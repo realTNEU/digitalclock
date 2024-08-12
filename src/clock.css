@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.orbitron-font {
+    font-family: "Orbitron", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+  }
+.clock{
+    color: blue;
+    text-align: center;
+    font-size: 5em;
+    position: absolute;
+    top: 35%;
+    left: 18%;
+    transform: translateY(-50%);
+}
